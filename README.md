@@ -19,4 +19,7 @@ For now, we don't know much about running with npm, so we use IntelliJ Idea by f
 * [Signe Josue](https://github.com/Signeemmanuel)
 * [Ngum Butlar](https://github.com/Ngumbutlar)
 
-In the future, we hope to be able to extend the functionalities of this linked list to simulate real life situations, since we're currently studying object-oriented programming.
+In the future, 
+we hope to be able to extend the functionalities of this linked list to simulate real life situations, since we're currently studying object-oriented programming.
+
+April 4th 2022
